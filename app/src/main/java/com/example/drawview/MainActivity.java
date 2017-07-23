@@ -51,8 +51,8 @@ public class MainActivity extends AppCompatActivity {
                 item.setChecked(true);
                 break;
             case R.id.green:
-//                drawView.paint.setColor(Color.GREEN);
-//                item.setChecked(true);
+                drawView.paint.setColor(Color.GREEN);
+                item.setChecked(true);
                 break;
             case android.R.id.home:
 //                Toast.makeText(MainActivity.this,"clear",Toast.LENGTH_SHORT).show();
